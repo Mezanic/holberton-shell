@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | tr -d "." | cut -d/ -f2²
+find . *-empty | tr -d "." | cut -d/ -f2
